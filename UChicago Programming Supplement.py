@@ -9,7 +9,6 @@
 
 
 # Code for MS in Applied Data Science - Aayush
-# https://github.com/AayushSheth2003/UChicago-Supplement/blob/main/Programming_Supplement.ipynb
 
 
 # Q1 Import Libraries
